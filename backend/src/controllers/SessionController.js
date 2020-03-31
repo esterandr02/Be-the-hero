@@ -3,6 +3,7 @@ const connection = require('../database/connection');
 module.exports = {  // rota de login (verificar se a ONG existe)
     async create(request, response) {
         const { id } = request.body;
+        console.log(id);
 
         const ong = await connection('ongs')
         .where('id', id)

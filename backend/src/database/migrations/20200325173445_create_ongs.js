@@ -1,5 +1,5 @@
 
-exports.up = function(knex) { // metodo up responsavel pela criacao da tabela
+exports.up = function(knex) {              //  metodo up responsavel pela criacao da tabela
     return knex.schema.createTable('ongs', function(table){
         table.string('id').primary();
         table.string('name').notNullable();

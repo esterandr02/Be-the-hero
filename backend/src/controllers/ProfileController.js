@@ -8,6 +8,8 @@ module.exports = {
         .where('ong_id', ong_id)
         .select('*');
 
+        console.log(ong_id);
+
         return response.json(incidents);
     }
 };
