@@ -8,7 +8,7 @@ module.exports = {
         const [count] = await connection('incidents').count();  // total de casos registrados
 
         const incidents = await connection('incidents')
-        .join('ongs', 'ong_id', '=', 'incidents.ong_id')   // relaciona dados de varias tabelas do BD
+        .join('ongs', 'ongs.id', '=', 'incidents.ong_id')   // relaciona dados de varias tabelas do BD
         .limit(5)
         .offset((page - 1) * 5)
         .select([           //  listar dados a serem mostrados

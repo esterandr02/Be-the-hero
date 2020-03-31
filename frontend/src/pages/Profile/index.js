@@ -57,7 +57,7 @@ export default function Profile() {
                 </Link>
 
                 <button onClick={handleLogout} type="button">
-                    <FiPower size={18} color="#E02041" />
+                    <FiPower size={18} color="#EE0000" />
                 </button>
             </header>
 
@@ -79,7 +79,7 @@ export default function Profile() {
 
                         <button onClick={() => handleDeleteIncident(incident.id)} type="button">
 
-                            <FiTrash2 size={20} color="#a8a8b3" />
+                            <FiTrash2 size={20} color="#E02041" />
                         </button>
 
                     </li>    
