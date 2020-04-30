@@ -1,9 +1,16 @@
-# Be-the-hero
+# Be the Hero
 
-Aplicação da semana Omnistack 11.0 da Rocketseat em _Tema Dark_ 
+Aplicação da semana Omnistack 11.0 da Rocketseat em __Tema Dark__ 
 
-Aplicação voltada para o auxílio de ONG's, o qual contribui com 
-questões de:
+Aplicação voltada para o auxílio de ONG's
+
+Conta com duas versões:
+
+- Mobile (contribuintes, doadores e voluntários)
+- Desktop (ONG's) : Cadastro e gerência de ONG's e casos
+
+ 
+#### SERVIÇO MOBILE
 
 - Melhor comunicação entre ONG-contribuinte:
 
@@ -11,4 +18,10 @@ questões de:
 
 - Melhor experiência para o usuário de forma a ter uma ampla visão de casos cadastrados:
 
-  - O contribuinte lida com uma lista de casos variados, contendo informações de descrição e valor contribuinte, e a partir disso escolhe a dedo em qual ajudar;
+  - O contribuinte lida com uma lista de casos variados, contendo informações de descrição e valor contribuinte, e a partir disso, escolhe a dedo em qual caso ajudar;
+
+#### SERVIÇO DESKTOP 
+
+- Centralização do serviço;
+- Facilidade de Gerenciamento de casos;
+- Fácil comunicação com contribuintes;
