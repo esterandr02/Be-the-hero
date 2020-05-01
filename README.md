@@ -1,5 +1,7 @@
 # Be the Hero
 
+![](/frontend/src/assets/logo.svg)
+
 Aplicação da semana Omnistack 11.0 da Rocketseat em __Tema Dark__ 
 
 Aplicação voltada para o auxílio de ONG's
