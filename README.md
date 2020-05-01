@@ -4,7 +4,8 @@
 <p align="center">
  <strong>Aplicação da semana Omnistack 11.0 da Rocketseat em Tema Dark</strong>
 
-Aplicação voltada para o auxílio financeiro de Organizações sem fins lucrativos
+<p align="center">
+ Aplicação voltada para o auxílio financeiro de Organizações sem fins lucrativos
 
 <p align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST3UBCM5oytBOjRjMUxHiZLO9-ZFAnhv5aS4uBSJ0vCv6mbCIW&usqp=CAU">
