@@ -68,6 +68,7 @@
   
   6. __iniciar__ o expo `npm start` ou `expo start`
   
+### Referencias
 
 🎓️  <strong>Dirigido por</strong> <a href="https://github.com/Rocketseat/semana-omnistack-11">Rocketseat</a>
 
