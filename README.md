@@ -8,7 +8,7 @@
  Aplicação voltada para o auxílio financeiro de Organizações sem fins lucrativos
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST3UBCM5oytBOjRjMUxHiZLO9-ZFAnhv5aS4uBSJ0vCv6mbCIW&usqp=CAU">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST3UBCM5oytBOjRjMUxHiZLO9-ZFAnhv5aS4uBSJ0vCv6mbCIW&usqp=CAU" style="border-radius: 75%">
  
 Conta com duas versões:
 
