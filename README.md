@@ -9,16 +9,16 @@
   
 
 <p align="center">
- <img src="https://s3.wasabisys.com/hapfun/2017/03/gif-empolgada.gif" width="200" height="200">    
+ <img src="https://s3.wasabisys.com/hapfun/2017/03/gif-empolgada.gif" width="200" height="250">    
  
-## Conta com duas versões:    
+## Conta com duas versões    
 
-📲️ __Mobile: (contribuintes, doadores e voluntários)__  
+📲️ __Mobile - contribuintes, doadores e voluntários__  
 
-🖥️ __Web (ONG's): Cadastro e gerência de ONG's e casos__      
+🖥️ __Web - Cadastro e gerência de ONG's e casos__      
 
  
-### SERVIÇO MOBILE
+### Serviço Mobile
 
   
 🤝️ Melhor comunicação entre __ONG-contribuinte__: 
@@ -32,8 +32,8 @@
     
   
 
-### SERVIÇO WEB 
+### Serviço Web 
 
-🌐️ Centralização do serviço;
-📈️ Facilidade de Gerenciamento de casos;
-🗣️ Fácil comunicação com contribuintes;
+🌐️ Centralização do serviço;  
+📈️ Facilidade de Gerenciamento de casos;  
+🗣️ Fácil comunicação com contribuintes;  
