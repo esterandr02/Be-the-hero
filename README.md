@@ -6,10 +6,12 @@
 
 <p align="center">
  Aplicação voltada para o auxílio financeiro de Organizações sem fins lucrativos
+  
 
 <p align="center">
- <img src="https://s3.wasabisys.com/hapfun/2017/03/gif-empolgada.gif" width="100" height="100">
+ <img src="https://s3.wasabisys.com/hapfun/2017/03/gif-empolgada.gif" width="400" height="350">
  
+     
      
 ## Conta com duas versões:
 
@@ -17,6 +19,7 @@
 
 🖥️ - __Web (ONG's): Cadastro e gerência de ONG's e casos__
 
+     
      
  
 #### SERVIÇO MOBILE
