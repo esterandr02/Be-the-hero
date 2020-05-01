@@ -1,4 +1,4 @@
-![](/frontend/src/assets/logo.svg)
+                                  ![](/frontend/src/assets/logo.svg)
 
 __Aplicação da semana Omnistack 11.0 da Rocketseat em Tema Dark__ 
 
