@@ -41,7 +41,7 @@
 🗣️ Fácil comunicação com contribuintes;  
 
 
-### 👾️ Tecnologias de desenvolvimento
+### 👾️ Ferramentas de desenvolvimento
 
 - __Node.js__
 - __Express__
@@ -69,4 +69,6 @@
   6. __iniciar__ o expo `npm start` ou `expo start`
   
 
-<strong>Dirigido por</strong> <a href="https://github.com/Rocketseat/semana-omnistack-11">Rocketseat</a>
+🎓️  <strong>Dirigido por</strong> <a href="https://github.com/Rocketseat/semana-omnistack-11">Rocketseat</a>
+
+📌️  <strong>Licenciado por</strong> <a href="https://github.com/Rocketseat/semana-omnistack-11/blob/master/LICENSE.md">MIT</a>
