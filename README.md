@@ -1,10 +1,10 @@
-                                  ![](/frontend/src/assets/logo.svg)
+   ![](/frontend/src/assets/logo.svg)
 
 __Aplicação da semana Omnistack 11.0 da Rocketseat em Tema Dark__ 
 
 Aplicação voltada para o auxílio financeiro de Organizações sem fins lucrativos
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST3UBCM5oytBOjRjMUxHiZLO9-ZFAnhv5aS4uBSJ0vCv6mbCIW&usqp=CAU)
+<center>![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST3UBCM5oytBOjRjMUxHiZLO9-ZFAnhv5aS4uBSJ0vCv6mbCIW&usqp=CAU)<center>
 
 Conta com duas versões:
 
