@@ -8,7 +8,7 @@
  Aplicação voltada para o auxílio financeiro de Organizações sem fins lucrativos
 
 <p align="center">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST3UBCM5oytBOjRjMUxHiZLO9-  ZFAnhv5aS4uBSJ0vCv6mbCIW&usqp=CAU">
+ <img src="https://s3.wasabisys.com/hapfun/2017/03/gif-empolgada.gif" width="100" height="100">
  
      
 ## Conta com duas versões:
