@@ -7,14 +7,16 @@
 <p align="center">
  Aplicação voltada para o auxílio financeiro de Organizações sem fins lucrativos
 
-<p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST3UBCM5oytBOjRjMUxHiZLO9-ZFAnhv5aS4uBSJ0vCv6mbCIW&usqp=CAU">
+# <p align="center">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST3UBCM5oytBOjRjMUxHiZLO9-  ZFAnhv5aS4uBSJ0vCv6mbCIW&usqp=CAU">
+ 
  
 ### Conta com duas versões:
 
 📲️ - __Mobile (contribuintes, doadores e voluntários)  
 🖥️ - Web (ONG's) : Cadastro e gerência de ONG's e casos__
 
+ 
  
 #### SERVIÇO MOBILE
 
