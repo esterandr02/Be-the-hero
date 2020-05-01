@@ -9,7 +9,7 @@
   
 
 <p align="center">
- <img src="https://s3.wasabisys.com/hapfun/2017/03/gif-empolgada.gif" width="200" height="250">    
+ <img src="https://s3.wasabisys.com/hapfun/2017/03/gif-empolgada.gif" width="250" height="200">    
  
 ## Conta com duas versões    
 
