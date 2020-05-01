@@ -1,10 +1,10 @@
-# Be the Hero
-
 ![](/frontend/src/assets/logo.svg)
 
-Aplicação da semana Omnistack 11.0 da Rocketseat em __Tema Dark__ 
+__Aplicação da semana Omnistack 11.0 da Rocketseat em Tema Dark__ 
 
-Aplicação voltada para o auxílio de ONG's
+__Aplicação voltada para o auxílio de ORGANIZAÇÕES NÃO GOVERNAMENTAIS__
+
+![](https://whatsupaupairs.files.wordpress.com/2015/01/gif-empolgada.gif)
 
 Conta com duas versões:
 
