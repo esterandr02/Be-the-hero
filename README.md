@@ -9,18 +9,14 @@
   
 
 <p align="center">
- <img src="https://s3.wasabisys.com/hapfun/2017/03/gif-empolgada.gif" width="400" height="350">
+ <img src="https://s3.wasabisys.com/hapfun/2017/03/gif-empolgada.gif" width="150" height="200">    
  
-     
-     
-## Conta com duas versões:
+## Conta com duas versões:    
 
-📲️ - __Mobile: (contribuintes, doadores e voluntários)__
+📲️ - __Mobile: (contribuintes, doadores e voluntários)__  
 
-🖥️ - __Web (ONG's): Cadastro e gerência de ONG's e casos__
+🖥️ - __Web (ONG's): Cadastro e gerência de ONG's e casos__      
 
-     
-     
  
 #### SERVIÇO MOBILE
   
