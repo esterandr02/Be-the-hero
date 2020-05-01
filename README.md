@@ -4,7 +4,7 @@ __Aplicação da semana Omnistack 11.0 da Rocketseat em Tema Dark__
 
 __Aplicação voltada para o auxílio de ORGANIZAÇÕES NÃO GOVERNAMENTAIS__
 
-![](https://whatsupaupairs.files.wordpress.com/2015/01/gif-empolgada.gif)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST3UBCM5oytBOjRjMUxHiZLO9-ZFAnhv5aS4uBSJ0vCv6mbCIW&usqp=CAU)
 
 Conta com duas versões:
 
