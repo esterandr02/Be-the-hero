@@ -2,8 +2,7 @@
 <img src="/frontend/src/assets/logo.svg">
 
 <p align="center">
- 
- __Aplicação da semana Omnistack 11.0 da Rocketseat em Tema Dark__ 
+ <strong>Aplicação da semana Omnistack 11.0 da Rocketseat em Tema Dark</strong>
 
 Aplicação voltada para o auxílio financeiro de Organizações sem fins lucrativos
 
