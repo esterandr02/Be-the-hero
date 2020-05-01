@@ -12,7 +12,7 @@
  
 ### Conta com duas versões:
 
-📲️ - __Mobile (contribuintes, doadores e voluntários)
+📲️ - __Mobile (contribuintes, doadores e voluntários)  
 🖥️ - Web (ONG's) : Cadastro e gerência de ONG's e casos__
 
  
