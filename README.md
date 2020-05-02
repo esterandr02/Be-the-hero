@@ -9,10 +9,6 @@
    Aplicação voltada para o auxílio financeiro de Organizações sem fins lucrativos
 </div>  
 
-<p align="center">
- <img src="https://s3.wasabisys.com/hapfun/2017/03/gif-empolgada.gif" width="250" height="200">    
-
-
 
 ## Conta com duas versões    
 
