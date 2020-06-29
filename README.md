@@ -1,71 +1,100 @@
-<div>
-  <p align="center">
-    <img src="/frontend/src/assets/logo.svg">
+<h1 align="center">
+  <img alt="logo" src="frontend/src/assets/logo.svg"/>
+  <br/>
+  Be the Hero
+</h1>
 
-  <p align="center">
-    🚀️<strong>Aplicação da semana Omnistack 11.0 da Rocketseat em Tema Dark</strong>
+<h4 align="center">
+  🚀️<strong>Aplicação da semana Omnistack 11.0 da Rocketseat em Tema Dark</strong>
+</h4>
 
-  <p align="center">
-   Aplicação voltada para o auxílio financeiro de Organizações sem fins lucrativos
-</div>  
+<p align="center">
+  <img alt="github-top-language" src="https://img.shields.io/github/languages/top/esterandr02/Be-the-hero">  
+  <img alt="github-repo-size" src="https://img.shields.io/github/repo-size/esterandr02/Be-the-hero?color=red">
+  <img alt="github-last-commit" src="https://img.shields.io/github/last-commit/esterandr02/Be-the-hero?color=green">
+  <img alt="github-repo-license" src="https://img.shields.io/static/v1?label=license&message=MIT&color=blueviolet">
+</p>
 
+<p align="center">
+  <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#warning-prerequisites">Prerequisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-## Conta com duas versões    
+## Show Aplication
+<img alt="gofinances-dashboard" src=""/>
+<br/>
+<img alt="gofinances-upload" src=""/>
+<br/>
+<img alt="gofinances-upload-gif" src=""/>
 
-📲️ __Mobile - contribuintes, doadores e voluntários__  
+## :rocket: Technologies
 
-🖥️ __Web - Cadastro e gerência de ONG's e casos__      
+#### Frontend
+-  [React Js](https://github.com/facebook/react)
 
- 
-### Serviço Mobile
+#### Backend
+-  [Node.js](https://nodejs.org/en/)
+-  [Express](https://expressjs.com/pt-br/)
+-  [knex](http://knexjs.org/#Installation-migrations)
+-  [sqlite3]()
 
+#### Mobile
+-  [React Native](https://github.com/facebook/react-native)
+
+## :warning: Prerequisites
+
+To run this aplication you need to download:
+- [Git](https://git-scm.com)
+- [Node.js v12.18.1](https://nodejs.org/dist/v12.18.1/node-v12.18.1-linux-x64.tar.xz) - LTS version
+- [npm](https://www.npmjs.com/package/npm) - package manager
   
-🤝️ Melhor comunicação entre __ONG-contribuinte__ 
-  
-   - O contribuinte pode contatar a ONG que deseja ajudar, por __email__, ou __Whatsapp__, diretamente pela aplicação, que        irá redireciona-lo para a plataforma desejada
-      
- 
-🤳️ Melhor experiência para o usuário de forma a ter uma __ampla visão__ de casos cadastrados
-  
-   - O contribuinte lida com uma __lista de casos__ variados, contendo informações de descrição e valor contribuinte, e a          partir disso, escolhe a dedo em qual caso ajudar
-    
+## :information_source: Getting Started
 
-### Serviço Web 
+```bash
+# Clone this repository
+$ git clone https://github.com/esterandr02/Be-the-hero.git
 
-🌐️ Centralização do serviço;  
-📈️ Facilidade de Gerenciamento de casos;  
-🗣️ Fácil comunicação com contribuintes;  
+# Go into the repository
+$ cd Be-the-hero
+```
+### Backend
+
+```bash
+$ cd backend
+
+# Install dependences
+$ npm i
+
+# Construct database tables
+$ npm knex migration:run
+
+# Start the Server
+$ yarn dev:server
+
+obs: Ctrl + C to stop the server and the frontend too.
+```
+
+### Frontend
+
+```bash
+$ cd frontend
+
+# Install dependences
+$ yarn
+
+# Start the app
+$ yarn start
+```
+
+### Mobile
+```bash
+
+```
+
+Made with ♥ by Ester :wave: [Get in touch!](https://www.linkedin.com/in/ester-albuquerque-3589911a6/)
 
 
-### 👾️ Ferramentas de desenvolvimento
-
-- __Node.js__
-- __Express__
-- __npm__
-- __Nodemon__
-- __axios__
-- __cors__
-- __Expo__
-- __React Js__
-- __React Native__
-
-### 👩‍💻️ Instruções de uso
-
-  1. Clone o repositótio
-  
-  2. digite: `npm i` em seu terminal para instalar as __dependencias__ necessárias ao projeto
-  
-  3. Observar __scripts de comandos__ para __iniciar os servidores__ em ___package.json___
-  
-  4. instalar o expo `npm install -g expo-cli`  
-    __obs__: caso haja problema: executar como adm
-    
-  5. __verificar__ a instalacao do expo `expo -h`
-  
-  6. __iniciar__ o expo `npm start` ou `expo start`
+ --- NOVO ---
   
 ### Referencias
-
-🎓️  <strong>Dirigido por</strong> <a href="https://github.com/Rocketseat/semana-omnistack-11">Rocketseat</a>
-
-📌️  <strong>Licenciado por</strong> <a href="https://github.com/Rocketseat/semana-omnistack-11/blob/master/LICENSE.md">MIT</a>
