@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  🚀️<strong>Aplicação da semana Omnistack 11.0 da Rocketseat em Tema Dark</strong>
+  🚀️<strong>Rocketseat Omnistack 11.0 week application in Dark Theme</strong>
 </h4>
 
 <p align="center">
@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#warning-prerequisites">Prerequisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Thecnologs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#warning-prerequisites">Pre-requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -30,14 +30,14 @@
 
 ## :rocket: Technologies
 
-#### Frontend
--  [React Js](https://github.com/facebook/react)
-
 #### Backend
 -  [Node.js](https://nodejs.org/en/)
 -  [Express](https://expressjs.com/pt-br/)
--  [knex](http://knexjs.org/#Installation-migrations)
--  [sqlite3]()
+-  [knex](http://knexjs.org/#Installation) - query builder
+-  [SQLite3](https://www.sqlite.org/index.html)
+
+#### Frontend
+-  [React Js](https://github.com/facebook/react)
 
 #### Mobile
 -  [React Native](https://github.com/facebook/react-native)
@@ -48,6 +48,7 @@ To run this aplication you need to download:
 - [Git](https://git-scm.com)
 - [Node.js v12.18.1](https://nodejs.org/dist/v12.18.1/node-v12.18.1-linux-x64.tar.xz) - LTS version
 - [npm](https://www.npmjs.com/package/npm) - package manager
+- mobile version : download __expo__ app!
   
 ## :information_source: Getting Started
 
