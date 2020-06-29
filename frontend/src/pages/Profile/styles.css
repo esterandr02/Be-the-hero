@@ -13,7 +13,7 @@
 .profile-container header span {
     font-size: 20px;
     margin-left: 24px;
-    color: #9393a1;
+    color: #e8e8e8;
 }
 
 .profile-container header img {
@@ -29,15 +29,14 @@
 .profile-container header button {
     height: 58px;
     width: 58px;
-    border-radius: 4px;
-    border: 1px solid #991212;
-    background: transparent;
+    border-radius: 8px;
+    border: 1px solid transparent;
     margin-left: 16px;
     transition: border-color 0.2s;
 }
 
 .profile-container header button:hover {
-    border-color: rgb(216, 117, 117);
+    background-color: #CFCFCF;
 }
 
 .profile-container h1 {
@@ -53,13 +52,14 @@
 }
 
 .profile-container ul li {
-    background: rgba(21, 41, 49, 0.336);
+    background: #54489c;
     padding: 24px;
     border-radius: 10px;
     position: relative;
 }
 
 .profile-container ul li button {
+    background-color: transparent;
     position: absolute;
     right: 24px;
     top:24px;
@@ -67,13 +67,13 @@
 }
 
 .profile-container ul li button:hover {
-    opacity: 0.8;
+    opacity: 0.5;
 }
 
 .profile-container ul li strong {
     display: block;
     margin-bottom: 16px;
-    color: #E8E8E8;
+    color: #fff;
 }
 
 .profile-container ul li p + strong {
@@ -81,7 +81,7 @@
 }
 
 .profile-container ul li p {
-    color: #9393a1 ;
+    color: #CFCFCF;
     line-height: 21px;
     font-size: 16px;
 }

@@ -12,8 +12,8 @@
 .new-incident-container .content {
     width: 100%;
     padding: 96px;
-    background:rgba(46, 33, 33, 0.767);
-    box-shadow: 0 0 100px rgba(97, 39, 39, 0.781);
+    background:#54489c;
+    box-shadow: 0 0 20px #7567cf;
     border-radius: 8px;
 
     display: flex;
@@ -34,7 +34,7 @@
 
 .new-incident-container .content section p {
     font-size: 18px;
-    color: #9393a1;
+    color: #e8e8e8;
     line-height: 32px;
 }
 

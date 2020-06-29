@@ -36,10 +36,10 @@ export default function Logon() {
                 <img src={ logoImg } alt="Be The Hero" />
 
             <form onSubmit={handleLogin}>
-                <h1>Faça seu login</h1>
+                <h1>Faça seu logon</h1>
 
                 <input
-                    placeholder="Sua ID"
+                    placeholder="Seu ID"
                     value={id}
                     onChange={e => setId(e.target.value)}
                 />
