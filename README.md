@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  🚀️<strong>Rocketseat Omnistack 11.0 week application in Dark Theme</strong>
+  🚀️<strong>Rocketseat Omnistack 11.0 week application in Blue Theme</strong>
 </h4>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies">Thecnologs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Thecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#warning-prerequisites">Pre-requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;
 </p>
@@ -92,6 +92,11 @@ $ npm start
 
 ### Mobile
 ```bash
+# Install dependences
+$ npm i
+
+# Install Expo in the command line
+npm install expo-cli --global
 
 ```
 
