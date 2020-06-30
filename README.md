@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  🚀️<strong>Rocketseat Omnistack 11.0 week application in Dark Theme</strong>
+  🚀️<strong>Rocketseat Omnistack 11.0 week application in Blue Theme</strong>
 </h4>
 
 <p align="center">
@@ -16,17 +16,22 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies">Thecnologs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Thecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#warning-prerequisites">Pre-requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-## Show Aplication
+## Show Application
 <img alt="gofinances-dashboard" src=""/>
 <br/>
 <img alt="gofinances-upload" src=""/>
 <br/>
 <img alt="gofinances-upload-gif" src=""/>
+
+### Description
+
+🖥️ The Web version is for Ongs register their incidents that people can be the hero!  
+📲️ And the mobile version is for people who wants to search and choose the case they want to help!
 
 ## :rocket: Technologies
 
@@ -67,13 +72,10 @@ $ cd backend
 # Install dependences
 $ npm i
 
-# Construct database tables
-$ npm knex migration:run
+# Run the backend
+$ npm start
 
-# Start the Server
-$ yarn dev:server
-
-obs: Ctrl + C to stop the server and the frontend too.
+obs: Ctrl + C to stop the server(backend) and the frontend too.
 ```
 
 ### Frontend
@@ -82,20 +84,20 @@ obs: Ctrl + C to stop the server and the frontend too.
 $ cd frontend
 
 # Install dependences
-$ yarn
+$ npm i
 
-# Start the app
-$ yarn start
+# Run the frontend
+$ npm start
 ```
 
 ### Mobile
 ```bash
+# Install dependences
+$ npm i
+
+# Install Expo in the command line
+npm install expo-cli --global
 
 ```
 
 Made with ♥ by Ester :wave: [Get in touch!](https://www.linkedin.com/in/ester-albuquerque-3589911a6/)
-
-
- --- NOVO ---
-  
-### Referencias
