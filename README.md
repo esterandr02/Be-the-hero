@@ -22,9 +22,10 @@
 </p>
 
 ## Show Application
-<img alt="gofinances-dashboard" src="frontend/src/assets/register.gif"/>
+
+<img alt="gofinances-dashboard" src="frontend/src/assets/dashboard.png"/>
 <br/>
-<img alt="gofinances-dashboard" src="frontend/src/assets/new-incident.gif"/>
+<img alt="gofinances-dashboard" src="frontend/src/assets/ong-profile.png"/>
 
 ### Description
 
