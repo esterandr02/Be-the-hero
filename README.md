@@ -22,9 +22,11 @@
 </p>
 
 ## Show Application
-<img alt="gofinances-dashboard" src="frontend/src/assets/register.gif"/>
-<br/>
-<img alt="gofinances-dashboard" src="frontend/src/assets/new-incident.gif"/>
+<p align="center">
+  <img alt="gofinances-dashboard" src="frontend/src/assets/dashboard.png" widht="500" height="400"/>
+  <br/>
+  <img alt="gofinances-dashboard" src="frontend/src/assets/ong-profile.png" widht="500" height="400"/>
+</p>
 
 ### Description
 
@@ -90,11 +92,19 @@ $ npm start
 
 ### Mobile
 ```bash
+$ cd mobile
+
 # Install dependences
 $ npm i
 
 # Install Expo in the command line
 npm install expo-cli --global
+
+# Start Expo
+$ expo start 
+
+# Connect your mobile device on USB
+# Now you need to have the expo app on your device, then you can load the QR code in your camera.
 
 ```
 
