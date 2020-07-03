@@ -22,10 +22,17 @@
 </p>
 
 ## Show Application
+
 <p align="center">
-  <img alt="gofinances-dashboard" src="frontend/src/assets/dashboard.png"/>
+  <h3>Frontend</h3>
+  <img alt="dashboard" src="frontend/src/assets/dashboard.png"/>
   <br/>
-  <img alt="gofinances-dashboard" src="frontend/src/assets/ong-profile.png"/>
+  <img alt="ong-profile" src="frontend/src/assets/ong-profile.png"/>
+  <br/>
+  <h3>Mobile</h3>
+  <img alt="mobile-dashboard" src="frontend/src/assets/mobile-dashboard.PNG"/>
+  <br/>
+  <img alt="incident-details" src="frontend/src/assets/mobile-incident-details.PNG"/>
 </p>
 
 ### Description
