@@ -30,9 +30,10 @@
   <img alt="ong-profile" src="frontend/src/assets/ong-profile.png"/>
   <br/>
   <h3>Mobile</h3>
-  <img alt="mobile-dashboard" src="frontend/src/assets/mobile-dashboard.PNG"/>
-  <br/>
-  <img alt="incident-details" src="frontend/src/assets/mobile-incident-details.PNG"/>
+  <div style="display: flex; flex-direction: row; align-items: center">
+    <img alt="mobile-dashboard" src="mobile/src/assets/mobile-dashboard.PNG" width="200" height="400"/>
+    <img alt="incident-details" src="mobile/src/assets/mobile-incident-details.PNG" width="200" height="400" />
+  </div>
 </p>
 
 ### Description
